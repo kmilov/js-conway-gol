@@ -1,0 +1,14 @@
+.cell {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  background: rgba(0, 0, 0, 0.45);
+}
+
+.cell:hover {
+  background: rgba(0, 0, 0, 0.22);
+}
+
+.cell--active {
+  background: white;
+}

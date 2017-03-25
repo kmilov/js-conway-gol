@@ -1,0 +1,19 @@
+.btn {
+  padding: 1em 2em;
+  border: 0;
+  cursor: pointer;
+  border-radius: 3px;
+  color: white;
+}
+
+.btn:hover {
+  background: #6aceef;
+}
+
+.btn--primary {
+  background: lightblue;
+}
+
+.btn--active {
+
+}
